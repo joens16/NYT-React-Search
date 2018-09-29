@@ -1,0 +1,15 @@
+.panel {
+    margin-top: 200px;
+    padding-top: 0px;
+    margin-bottom: 20px;
+    background: #ECEFF1;
+    height: 400%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    /* border: 1px solid gray */
+  }
+  
